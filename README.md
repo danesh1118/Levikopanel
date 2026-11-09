@@ -1,4 +1,4 @@
-# Project Leviko (نهان) Gateway `v3.1.0`
+# Project Leviko Panel `v3.1.0`
 
 > High-Performance, Modular Telemetry Gateway, Dual VLESS & Trojan Proxy, Multi-Client Subscription Engine, and Self-Healing Relay Mesh for Cloudflare Workers & Pages.
 
